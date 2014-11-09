@@ -1,0 +1,9 @@
+Compile and install from github sources
+
+1.) git clone https://github.com/cnote-coin/cnote.git
+2.) cd src
+3.) make -f makefile.unix
+4.) create a config file 
+	cd ~
+	mkdir ~/.c-note
+	cat << "CONFIG" >> ~/.c-note/c-note.conf
