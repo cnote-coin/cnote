@@ -72,6 +72,6 @@
 4.)  create a config file 
      copy CONFIG example file to your_home/Application Data/C-Note/c-note.conf
 
-     Run with c-note.exe (make sure you have the libeay32.dll in bitcoin folder)
+     Run with c-note.exe (make sure you have the libeay32.dll in C-Note folder)
 
 
